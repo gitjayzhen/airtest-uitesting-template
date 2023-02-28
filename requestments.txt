@@ -1,0 +1,6 @@
+pytest==7.2.1
+airtest==1.2.9.1
+pocoui==1.0.88
+allure-pytest==2.12.0
+Faker==17.3.0
+tidevice==0.10.2
