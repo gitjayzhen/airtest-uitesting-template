@@ -98,7 +98,7 @@
   os.system('allure open ./result-report')
   ```
 
-## 6.关注的 pytest 能给测试带来的便利
+## 5.关注的 pytest 能给测试带来的便利
 
 - 用例的管理
   - 用例集 TestClass、 test_module
